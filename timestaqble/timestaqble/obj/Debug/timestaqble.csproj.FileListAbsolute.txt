@@ -1,0 +1,6 @@
+C:\Projects\visual_studio_projects\timestaqble\timestaqble\bin\Debug\timestaqble.exe.config
+C:\Projects\visual_studio_projects\timestaqble\timestaqble\bin\Debug\timestaqble.exe
+C:\Projects\visual_studio_projects\timestaqble\timestaqble\bin\Debug\timestaqble.pdb
+C:\Projects\visual_studio_projects\timestaqble\timestaqble\obj\Debug\timestaqble.csprojResolveAssemblyReference.cache
+C:\Projects\visual_studio_projects\timestaqble\timestaqble\obj\Debug\timestaqble.exe
+C:\Projects\visual_studio_projects\timestaqble\timestaqble\obj\Debug\timestaqble.pdb
